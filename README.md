@@ -60,7 +60,7 @@ Construído nativamente em **Kotlin** para garantir a melhor performance e integ
 
 ```bash
 # Clone o repositório
-git clone (https://github.com/arthurhmarinho/mimir.git)
+git clone https://github.com/arthurhmarinho/mimir.git
 cd server
 
 # Configure as variáveis de ambiente (crie um arquivo .env)
