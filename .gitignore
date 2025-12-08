@@ -3,7 +3,7 @@
 .idea/
 *.vscode/
 *.swp
-
+shell-nix
 # --- GO (BACKEND) ---
 # Binários
 /server/bin/
