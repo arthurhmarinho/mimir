@@ -1,0 +1,25 @@
+# --- GERAL ---
+.DS_Store
+.idea/
+*.vscode/
+*.swp
+
+# --- GO (BACKEND) ---
+# Binários
+/server/bin/
+/server/dist/
+# O próprio executável se tiver o nome do projeto (opcional)
+/server/mimir-server
+# Dependências (se usar vendor)
+/server/vendor/
+
+# --- ANDROID (MOBILE) ---
+# Build output
+/mobile/build/
+/mobile/app/build/
+/mobile/.gradle/
+# Local configuration (nunca suba isso, contem caminhos da sua maquina)
+/mobile/local.properties
+# Capturas e logs
+/mobile/captures/
+/mobile/*.hprof
